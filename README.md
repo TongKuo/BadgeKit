@@ -2,7 +2,7 @@
 
 ## Sketch
 
-* [.sketch file](/sketch/badge-kit.sketch)
+* [Sketch Asset](/sketch/badge-kit.sketch)
 
 ## SVG
 
