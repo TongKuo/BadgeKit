@@ -4,8 +4,8 @@
 
 | Badge       |  Preview
 |------------ | ------------- 
-| GitHub | [![github-badge-bitmap](/bitmap/github-badge/github-badge@1x.png)](/bitmap/github-badge)
-| Mac App Store | [![mas-badge-bitmap](/bitmap/mas-badge/mas-badge@1x.png)](/bitmap/mas-badge)
+| GitHub      | <a href="/bitmap/github-badge"><img src="/bitmap/github-badge/github-badge@1x.png" title="github-badge-bitmap" border="0" width="250" /></a> 
+| Mac App Store | <a href="/bitmap/mas-badge"><img src="/bitmap/mas-badge/mas-badge@1x.png" title="mas-badge-bitmap" border="0" width="250" /></a> 
 
 
 
