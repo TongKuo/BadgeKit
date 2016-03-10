@@ -2,8 +2,13 @@
 
 ## Bitmap
 
-[![github-badge-bitmap](/bitmap/github-badge/github-badge@1x.png)](/bitmap/github-badge)
-[![mas-badge-bitmap](/bitmap/mas-badge/mas-badge@1x.png)](/bitmap/mas-badge)
+| Badge       |  Preview
+|------------ | ------------- 
+| GitHub | [![github-badge-bitmap](/bitmap/github-badge/github-badge@1x.png)](/bitmap/github-badge)
+| Mac App Store | [![mas-badge-bitmap](/bitmap/mas-badge/mas-badge@1x.png)](/bitmap/mas-badge)
+
+
+
 
 ## Sketch
 
