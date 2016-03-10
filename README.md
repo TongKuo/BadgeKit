@@ -7,7 +7,7 @@
 
 ## Sketch
 
-* [Sketch Asset](/sketch/badge-kit.sketch)
+* [Sketch Asset](/sketch)
 
 ## Adobe Illustrator
 
