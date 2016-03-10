@@ -11,7 +11,7 @@
 
 ## Adobe Illustrator
 
-* [AI Asset](/ai/badge-kit.ai)
+* [AI Asset](/ai)
 
 ## SVG
 
