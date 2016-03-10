@@ -1,5 +1,9 @@
 # BadgeKit
 
+## Sketch
+
+* [.sketch file](/sketch/badge-kit.sketch)
+
 ## SVG
 
 * ["Contribute with GitHub"](/svg/github-badge.svg)
